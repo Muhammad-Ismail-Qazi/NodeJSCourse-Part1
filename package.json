@@ -1,0 +1,16 @@
+{
+  "name": "nodejscourse",
+  "version": "1.0.0",
+  "description": "Course about Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Ismail",
+  "license": "ISC",
+  "dependencies": {
+    "color": "^4.2.3",
+    "express": "^4.19.2",
+    "mongoose": "^8.6.1"
+  }
+}
